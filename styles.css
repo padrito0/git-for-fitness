@@ -1,3 +1,14 @@
-h1 {
-    color:pink
+h1, h2 {
+    text-align: center;
+    color:white;
 }
+
+p {
+    color:white;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+}
+
